@@ -13,3 +13,4 @@ services:
 # "docker compose ps" para ver os containers rodando
 # "docker compose stop" para parar os containers
 # "docker compose down" para deletar todos os containers
+# No linux, o comando inicial fica "docker-compose" ao invés de "docker compose"
